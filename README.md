@@ -6,4 +6,6 @@ I lead and build real-time web products (WebSocket, WebRTC, Server-Sent Events, 
 
 Most of my work lives in private company and client repositories. The contribution graph includes that activity as dates and counts only (no code), plus my own GitLab work.
 
-Case studies: https://DavitGabrielyan.com · GitLab: https://gitlab.com/DavGabrielian · LinkedIn: https://www.linkedin.com/in/davidgabrielofficial
+- Website: https://DavitGabrielyan.com 
+- GitLab: https://gitlab.com/DavGabrielian 
+- LinkedIn: https://www.linkedin.com/in/davidgabrielofficial
